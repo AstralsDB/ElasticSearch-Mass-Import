@@ -2,7 +2,7 @@
 A simple way to import all text or csv files from a directory into ES
 
 <center>
-  <img src="https://transfer.sh/A7HMXf/Code_SHB77amM5d.png">
+  <img src="https://transfer.sh/6nm4fX/Code_1LLf7tmOev.png">
 </center>
 
 ### How it works
